@@ -1,1 +1,2 @@
 # CARTESIAN-PEN-PLOTTER
+Designed and fabricated an XY pen plotter using CAD modeling and 3D printing, leveraging additive manufacturing for component creation. The plotter is powered by an ESP32 microcontroller programmed via Arduino IDE, enabling accurate 2D plotting with intricate design patterns. The project includes electronic component assembly and a robust electrical network to support automated sketching with high precision."
